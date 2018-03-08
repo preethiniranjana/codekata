@@ -1,8 +1,7 @@
 #include <stdio.h>
-int main(void)
-
+int main()
 {
-	int s,flag=0,i,c=0;
+	int s,i,c=0;
 	scanf("%d",&s);
 	for(i=1;i<=26;i++)
 	{
