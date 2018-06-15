@@ -2,7 +2,8 @@
 #include<string.h>
 int main(void)
 {
-int a[1000],b[1000],x,y,i,j,flag=0;
+char a[1000],b[1000];
+int x,y,i,j,flag=0;
 scanf("%s %s",a,b);
 int m=strlen(a);
 int n=strlen(b);
